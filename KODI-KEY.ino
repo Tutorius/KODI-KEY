@@ -140,7 +140,7 @@ void loop()
       isvoldown=0;
       isleftarrow=0;
       isrightarrow=0;
-      isuparrow=true;
+      isuparrow=1;
       isdownarrow=false;
     }
     if ((!digitalRead(CKDOWN))&&old)
