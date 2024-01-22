@@ -47,3 +47,6 @@ C : Cntrol ('c')
 
 TAB : Tab through screens ('TAB')
 
+You will need to install a library manually to your Arduino-IDE. It can be find here:
+
+https://github.com/T-vK/ESP32-BLE-Keyboard
